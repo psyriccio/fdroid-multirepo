@@ -1,0 +1,14 @@
+{
+	"repos": [
+		{
+			"id": "f-droid",
+			"url": "https://f-droid.org/repo",
+			"enabled": true
+		},
+		{
+			"id": "f-droid-archive",
+			"url": "https://f-droid.org/archive",
+			"enabled": false
+		}
+	]
+}

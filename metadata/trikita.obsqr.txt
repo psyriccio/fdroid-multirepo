@@ -1,0 +1,11 @@
+Name:Obsqr
+Categories:Интернет
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Changelog:
+Summary:Сканер QR-кодов
+Description:
+Сканер QR-кодов
+.

@@ -1,0 +1,11 @@
+Name:yaxim
+Categories:Связь,Интернет
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Changelog:
+Summary:yaxim месенджер
+Description:
+Клиент обмена мгновенными сообщениями по протоколу XMPP(Jabber)
+.

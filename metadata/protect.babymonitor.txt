@@ -1,0 +1,11 @@
+Name:Baby Monitor
+Categories:Связь
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Changelog:
+Summary:Видео-няня
+Description:
+Видеонаблюдение за ребенком с помощью Android смартфона
+.
